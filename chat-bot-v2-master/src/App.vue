@@ -45,12 +45,12 @@ const participants = reactive([
     id: "user1",
     name: "Thabo",
     imageUrl:
-      "https://raw.githubusercontent.com/UrbanSwati/chat-bot/master/static/images/tut-logo.png",
+      "https://raw.githubusercontent.com/Lethabo-Kekana/ai-chatbot-system/main/chat-bot-v2-master/src/assets/Tutlogo.png",
   },
 ]);
 
 const titleImageUrl = ref(
-  "https://raw.githubusercontent.com/UrbanSwati/chat-bot/master/static/images/tut-logo.png"
+  "https://raw.githubusercontent.com/Lethabo-Kekana/ai-chatbot-system/main/chat-bot-v2-master/src/assets/Tutlogo.png"
 );
 
 const newMessagesCount = ref(0);
